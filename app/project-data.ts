@@ -8,7 +8,7 @@ export type DataPoint = {
 };
 
 export const project = {
-  title: "Physics Passion Project",
+  title: "WPT Efficiency",
   subtitle: "Comparing electromagnetic and acoustic power transfer across barriers",
   status: "In progress - prototype design & mentor outreach",
   updated: "July 2026",

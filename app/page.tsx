@@ -12,7 +12,7 @@ import {
 } from "./project-data";
 
 export const metadata: Metadata = {
-  title: "Physics Passion Project | Power transfer across barriers",
+  title: "WPT Efficiency | Power transfer across barriers",
   description:
     "A two-track student physics study comparing inductive electromagnetic and ultrasonic acoustic power transfer across barriers.",
 };
@@ -66,7 +66,7 @@ export default function Home() {
     <main>
       <section className="hero" id="overview">
         <nav className="nav container" aria-label="Primary navigation">
-          <a className="brand" href="#overview" aria-label="Physics Passion Project home"><span>PP</span>Physics Passion</a>
+          <a className="brand" href="#overview" aria-label="WPT Efficiency home"><span>WE</span>WPT Efficiency</a>
           <div className="nav-links"><a href="#methods">Methods</a><a href="#results">Results</a><a href="#progress">Progress</a><a href="#contact">Contact</a></div>
         </nav>
 
