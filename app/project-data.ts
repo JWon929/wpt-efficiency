@@ -12,11 +12,11 @@ export const project = {
   subtitle: "Comparing electromagnetic and acoustic power transfer across barriers",
   status: "In progress - prototype design & mentor outreach",
   updated: "July 2026",
-  team: "ADD TEAM MEMBER NAMES",
-  school: "ADD SCHOOL NAME",
-  grade: "ADD GRADE LEVEL",
-  contactEmail: "your-email@example.com",
-  contactLabel: "ADD A WORKING PROJECT EMAIL",
+  team: "William Koch, Jihoo Won, Luke Widjaja",
+  school: "Monta Vista High School",
+  grade: "12",
+  contactEmail: "wpt.project.25@gmail.com",
+  contactLabel: "wpt.project.25@gmail.com",
 };
 
 export const questions = {
