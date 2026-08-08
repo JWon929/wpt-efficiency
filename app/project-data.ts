@@ -118,6 +118,11 @@ export const sources = [
     note: "Demonstrates regulated DC output through a solid metal wall and connects the acoustic track to sealed-sensor applications.",
   },
   {
+    label: "Rathod (2020) - Acoustic Impedance Matching for Piezoelectric Sensors and Transducers",
+    href: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7411934/",
+    note: "A review of acoustic impedance matching techniques. It informs the acoustic track's attention to interfaces, coupling conditions, and reflection losses at material boundaries.",
+  },
+  {
     label: "Ji et al. (2024) - Ultrasonic Power and Data Through a Metallic Wall",
     href: "https://doi.org/10.1103/PhysRevApplied.21.014059",
     note: "A recent metal-wall experiment showing how material design and mechanical resonance can strongly affect ultrasonic transmission.",
